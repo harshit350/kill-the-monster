@@ -15,8 +15,8 @@ var monster
 function preload() {
 //preload the images here
 
-imgg=loadImage("img/GamingBackground.png");
-ing=loadImage("img/Monster-01.png")
+imgg=loadImage("GamingBackground.png");
+ing=loadImage("Monster-01.png")
 
 }
 
